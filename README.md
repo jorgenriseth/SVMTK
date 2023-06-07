@@ -1,3 +1,5 @@
+**This is a fork of https://github.com/SVMTK/SVMTK created to deal with build issues related to outdated version of catch. This fork is not maintained, and will probably not get updated, so if the original repo has fixed these issues, they should use that instead.**
+
 # SurfaceVolumeMeshingToolKit
 
 Surface Volume Meshing Toolkit (SVMTK) is a Python frontend for specific 2D and 3D mesh generation methods in the Computational Geometry Algorithms Library [(CGAL)](https://www.cgal.org/) . 
